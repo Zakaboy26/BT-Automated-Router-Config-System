@@ -4,7 +4,8 @@
 > It is included here to provide clear, accurate attribution of the parts I personally designed, implemented, and tested.
 
 <!-- Start of excerpt -->
-[21077294_DISSERTATION_SNIPPET.odg](https://github.com/user-attachments/files/23456079/21077294_DISSERTATION_SNIPPET.odg)
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-01" src="https://github.com/user-attachments/assets/cbdfbc26-3346-4dd8-8320-6f5ca68bdc68" />
+
 <!-- End of excerpt -->
 
 ---
@@ -211,4 +212,5 @@ When submitting a pull request:
 
 
 This project is licensed under the MIT License - see the [LICENSE](https://git.cardiff.ac.uk/c21079342/bt-47b/-/blob/development/LICENSE) file for details.
+
 
