@@ -4,9 +4,31 @@
 > It is included here to provide clear, accurate attribution of the parts I personally designed, implemented, and tested.
 
 <!-- Start of excerpt -->
-<img width="1654" height="2339" alt="21077294_Report_SNIPPET-01" src="https://github.com/user-attachments/assets/cbdfbc26-3346-4dd8-8320-6f5ca68bdc68" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-22" src="https://github.com/user-attachments/assets/3202d884-4cf8-4bc3-98a3-126c9dea8447" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-21" src="https://github.com/user-attachments/assets/2eff0140-02c0-4196-ab4d-d0e298d39a37" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-20" src="https://github.com/user-attachments/assets/0e6618bd-a7dc-4f92-ab91-613f4f2fc3d8" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-19" src="https://github.com/user-attachments/assets/44019765-ca45-448c-94b3-f28f21917ef8" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-18" src="https://github.com/user-attachments/assets/32811ed7-a263-408a-8e09-f72671865614" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-17" src="https://github.com/user-attachments/assets/9bd2443e-b71d-403d-b77b-392600de7082" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-16" src="https://github.com/user-attachments/assets/b33a01ce-0c53-434c-b4f3-298b13dac0a8" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-15" src="https://github.com/user-attachments/assets/76a3d352-28ae-4a36-a5e5-bc931a50a04d" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-14" src="https://github.com/user-attachments/assets/7b79b0ee-024f-42bc-95b0-1f68c17b26fe" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-13" src="https://github.com/user-attachments/assets/a6463ac3-e9c2-4744-8200-6280cc9f56d5" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-12" src="https://github.com/user-attachments/assets/b9f25ebb-9698-48e5-8d8d-46e3671c201d" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-11" src="https://github.com/user-attachments/assets/9926370f-ea91-4472-ade8-d5e0390c3291" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-10" src="https://github.com/user-attachments/assets/e753298d-e0b5-4f32-9634-28e83e11fc0d" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-09" src="https://github.com/user-attachments/assets/a53ef7d0-2160-4725-928f-53592f7b685d" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-08" src="https://github.com/user-attachments/assets/a2e7dbbf-b74a-4e1e-aae4-b03f7093497a" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-07" src="https://github.com/user-attachments/assets/3be992b7-39da-4448-a7e8-f5c1215d7b7b" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-06" src="https://github.com/user-attachments/assets/59bb9e65-f966-424a-9601-533563933db5" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-05" src="https://github.com/user-attachments/assets/74745c81-5f2a-4460-9ccf-d6b3fd5e3412" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-04" src="https://github.com/user-attachments/assets/8bdad929-5180-49a8-8a3b-57de911285aa" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-03" src="https://github.com/user-attachments/assets/4071e7de-7e62-4e0e-9d94-4d903d3c2fdb" />
+<img width="1654" height="2339" alt="21077294_Report_SNIPPET-02" src="https://github.com/user-attachments/assets/2f511b84-3d63-401c-98d0-fefa3ed30caa" />
 
-<!-- End of excerpt -->
+
+<!-- End of excerpt --><img width="1654" height="2339" alt="21077294_Report_SNIPPET-01" src="https://github.com/user-attachments/assets/21bc479b-aa4b-4d6b-b822-cc759544ba33" />
+
 
 ---
 
@@ -212,5 +234,6 @@ When submitting a pull request:
 
 
 This project is licensed under the MIT License - see the [LICENSE](https://git.cardiff.ac.uk/c21079342/bt-47b/-/blob/development/LICENSE) file for details.
+
 
 
