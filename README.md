@@ -1,3 +1,16 @@
+## Personal Contribution (Excerpt from Dissertation)
+
+> The section below is a direct excerpt from my dissertation (Section 5) to **document my individual code/testing contribution** to this group project. **The original README can be found below the excerpt**  
+> It is included here to provide clear, accurate attribution of the parts I personally designed, implemented, and tested.
+
+<!-- Paste your Section 5 excerpt below this line -->
+
+<!-- End of excerpt -->
+
+---
+
+## Original Project README
+
 # BT Router Project
 
 A full-stack web application built with Spring Boot and React, designed to provide easy router requests and management functionality for British Telecom.
@@ -195,5 +208,6 @@ When submitting a pull request:
 - Follow the existing code style
 
 ## License
+
 
 This project is licensed under the MIT License - see the [LICENSE](https://git.cardiff.ac.uk/c21079342/bt-47b/-/blob/development/LICENSE) file for details.
